@@ -24,8 +24,7 @@ The following **additional** features are implemented:
 - [ ] Grey out any already guessed incorrect letters on the keyboard
 
 ## Video Walkthrough
-
-[<img src= 'Wordle2_Walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://youtube.com/shorts/mfH6U1H0JgQ)
+Check out a demo [here](https://youtube.com/shorts/mfH6U1H0JgQ?feature=share)
 
 ## Notes
 
