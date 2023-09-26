@@ -25,9 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src= 'Screen Recording 2023-09-20 at 10.01.35 AM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
