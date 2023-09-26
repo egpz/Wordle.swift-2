@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src= 'Screen Recording 2023-09-20 at 10.01.35 AM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'Screen Recording 2023-09-25 at 9.33.37 PM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
